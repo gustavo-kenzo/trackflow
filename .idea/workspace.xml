@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa895496-2bba-4590-a513-05d60b997bbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Conventions.md" afterDir="false" />
+    <list default="true" id="aa895496-2bba-4590-a513-05d60b997bbf" name="Changes" comment="init commit: project created">
+      <change afterPath="$PROJECT_DIR$/docs/configuracao-github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/issue_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/issue_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/pull_request_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Trackflow-plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Trackflow-plan.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +18,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:gustavo-kenzo/trackflow.git",
+    "accountId": "f62f6ab9-4aa9-4cea-93ae-375aa1b2cdb1"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
@@ -51,7 +60,7 @@
     "agentbridge.globalDefaults.synced.memory": "-:c80a8f45eb0e7b1daa107afc",
     "agentbridge.globalDefaults.synced.tool-permissions": "-:e3b0c44298fc1c149afbf4c8",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "t01-convencoes-e-configuracao",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/temp/ws-intellij/PUBLI_GITHUB/trackflow",
     "node.js.detected.package.eslint": "true",
@@ -66,6 +75,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\temp\ws-intellij\PUBLI_GITHUB\trackflow\.github\ISSUE_TEMPLATE" />
+      <recent name="C:\temp\ws-intellij\PUBLI_GITHUB\trackflow" />
       <recent name="C:\temp\ws-intellij\PUBLI_GITHUB\trackflow\backend" />
     </key>
   </component>
@@ -96,6 +107,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit: project created" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit: project created" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
