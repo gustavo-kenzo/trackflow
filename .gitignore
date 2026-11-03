@@ -1,0 +1,18 @@
+# Segredos (nunca versionar)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE
+.idea/
+*.iml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências e builds
+node_modules/
+target/
